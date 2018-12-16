@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 3,
+  "data": [
+    {
+      "id": 1,
+      "customername": "小张超市",
+      "zip": "111",
+      "address": "武汉",
+      "telephone": "027-9123131",
+      "connectionperson": "张大明",
+      "phone": "13812312312321312",
+      "bank": "中国银行",
+      "account": "654431331343413",
+      "email": "213123@sina.com",
+      "fax": "430000",
+      "available": 1
+    },
+    {
+      "id": 2,
+      "customername": "小明超市",
+      "zip": "222",
+      "address": "深圳",
+      "telephone": "0755-9123131",
+      "connectionperson": "张小明",
+      "phone": "13812312312321312",
+      "bank": "中国银行",
+      "account": "654431331343413",
+      "email": "213123@sina.com",
+      "fax": "430000",
+      "available": 1
+    },
+    {
+      "id": 3,
+      "customername": "快七超市",
+      "zip": "430000",
+      "address": "武汉",
+      "telephone": "027-11011011",
+      "connectionperson": "雷生",
+      "phone": "13434134131",
+      "bank": "招商银行",
+      "account": "6543123341334133",
+      "email": "6666@66.com",
+      "fax": "545341",
+      "available": 1
+    }
+  ]
+}

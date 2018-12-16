@@ -1,0 +1,187 @@
+[
+  {
+    "id": 2,
+    "pid": 1,
+    "title": "基础管理",
+    "href": "",
+    "icon": "&#xe857;",
+    "spread": false,
+    "name": null,
+    "children": [
+      {
+        "id": 7,
+        "pid": 2,
+        "title": "客户管理",
+        "href": "page/customer/customerList.html",
+        "icon": "&#xe651;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      },
+      {
+        "id": 8,
+        "pid": 2,
+        "title": "供应商管理",
+        "href": "../provider/toProviderManager.action",
+        "icon": "&#xe658;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      },
+      {
+        "id": 9,
+        "pid": 2,
+        "title": "商品管理",
+        "href": "../goods/toGoodsManager.action",
+        "icon": "&#xe657;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      }
+    ],
+    "value": null,
+    "checked": null,
+    "data": []
+  },
+  {
+    "id": 5,
+    "pid": 1,
+    "title": "系统管理",
+    "href": "",
+    "icon": "&#xe614;",
+    "spread": false,
+    "name": null,
+    "children": [
+      {
+        "id": 14,
+        "pid": 5,
+        "title": "部门管理",
+        "href": "page/dept/deptManager.html",
+        "icon": "&#xe624;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      },
+      {
+        "id": 15,
+        "pid": 5,
+        "title": "菜单管理",
+        "href": "../menu/toMenuManager.action",
+        "icon": "&#xe857;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      },
+      {
+        "id": 16,
+        "pid": 5,
+        "title": "权限管理",
+        "href": "../permission/toPermissionManager.action",
+        "icon": "&#xe857;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      },
+      {
+        "id": 17,
+        "pid": 5,
+        "title": "角色管理",
+        "href": "../role/toRoleManager.action",
+        "icon": "&#xe650;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      },
+      {
+        "id": 18,
+        "pid": 5,
+        "title": "用户管理",
+        "href": "../user/toUserManager.action",
+        "icon": "&#xe612;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      }
+    ],
+    "value": null,
+    "checked": null,
+    "data": []
+  },
+  {
+    "id": 6,
+    "pid": 1,
+    "title": "其它管理",
+    "href": "",
+    "icon": "&#xe628;",
+    "spread": false,
+    "name": null,
+    "children": [
+      {
+        "id": 21,
+        "pid": 6,
+        "title": "登陆日志",
+        "href": "",
+        "icon": "&#xe63a;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      },
+      {
+        "id": 22,
+        "pid": 6,
+        "title": "图标管理",
+        "href": "",
+        "icon": "&#x1002;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      },
+      {
+        "id": 23,
+        "pid": 6,
+        "title": "404",
+        "href": "",
+        "icon": "&#x1002;",
+        "spread": false,
+        "name": null,
+        "children": [],
+        "value": null,
+        "checked": null,
+        "data": []
+      }
+    ],
+    "value": null,
+    "checked": null,
+    "data": []
+  }
+]
